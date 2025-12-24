@@ -27,3 +27,6 @@ Enter Principal Amount: 1000
 Enter Rate of Interest: 5
 Enter Time Period (years): 2
 Simple Interest is: 100.0
+## Notes
+This project is created as part of the Git assignment.
+
